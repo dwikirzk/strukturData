@@ -1,12 +1,12 @@
 # 📚 Tugas Struktur Data
 
-Selamat datang di repositori penyimpanan tugas kuliah **Struktur Data**. Repositori ini berisi kumpulan latihan koding dan tugas mingguan.
+Selamat datang di repositori penyimpanan tugas kuliah **Struktur Data**. Repositori ini berisi kumpulan latihan coding dan tugas mingguan.
 
 ## 👤 Identitas
 
 - **Nama:** [Mohamad Dwiki Rozak]
 - **NIM:** [25161562021]
-- **Kelas:** [ INF2A]
+- **Kelas:** [ INF 2A]
 
 ---
 

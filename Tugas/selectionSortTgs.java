@@ -1,4 +1,4 @@
-package strukturData;
+package strukturData.Tugas;
 
 public class selectionSortTgs {
   public static void main(String[] args) {
