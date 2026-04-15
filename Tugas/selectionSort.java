@@ -1,6 +1,6 @@
-package strukturData.Tugas;
+package Tugas;
 
-public class selectionSortTgs {
+public class selectionSort {
   public static void main(String[] args) {
     int[] x = { 20, 15, 90, 13, 26 };
 
@@ -31,3 +31,4 @@ public class selectionSortTgs {
     }
   }
 }
+// iterasi jumlah data -1 (data 5 berarti iterasi 4)

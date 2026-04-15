@@ -1,4 +1,4 @@
-package strukturData;
+package Tugas;
 
 public class arrayMin {
   public static void main(String[] args) {
