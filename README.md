@@ -17,10 +17,28 @@ Selamat datang di repositori penyimpanan tugas kuliah **Struktur Data**. Reposit
 - **Version Control:** Git & GitHub
 
 ## 📂 Struktur Folder
-
-Berikut adalah daftar tugas yang sudah dikerjakan:
-
-- `Pertemuan-1/` - Pengenalan Array
-- `Pertemuan-2/` - Linked List (Single & Double)
-
----
+STRUKTURDATA/
+├── .vscode/                 # Konfigurasi lokal editor (Ignored)
+├── Materi/                  # Kumpulan materi perkuliahan per pertemuan
+│   ├── pertemuan2/          # Nested Loop & Pola Huruf
+│   ├── pertemuan3/          # Manipulasi Array & Swap
+│   ├── pertemuan5/          # Bubble Sort
+│   ├── pertemuan6/          # (Materi Lanjutan)
+│   └── pertemuan8/          # Stack (Tumpukan)
+├── Tugas/                   # Kumpulan tugas mandiri
+│   └── Task1SelectionSort/  # Implementasi Selection Sort
+│       ├── hasilSelectionSort.png
+│       └── selectionSort.java
+├── UTS/                     # Proyek Ujian Tengah Semester
+│   ├── UtsFibonacci/        # Deret Fibonacci Rekursif
+│   │   ├── README.md
+│   │   ├── resultFibonacci.png
+│   │   └── utsFibonacci.java
+│   └── UtsSorting/          # Implementasi Sorting UTS
+│       ├── README.md
+│       ├── resultSorting.png
+│       └── UtsSorting.java
+├── .gitattributes           # Pengaturan atribut Git
+├── .gitignore               # Daftar file/folder yang tidak di-upload
+├── LICENSE                  # Lisensi proyek (MIT)
+└── README.md                # Dokumentasi utama proyek
