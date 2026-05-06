@@ -17,6 +17,7 @@ Selamat datang di repositori penyimpanan tugas kuliah **Struktur Data**. Reposit
 - **Version Control:** Git & GitHub
 
 ## 📂 Struktur Folder
+```text
 STRUKTURDATA/
 ├── .vscode/                 # Konfigurasi lokal editor (Ignored)
 ├── Materi/                  # Kumpulan materi perkuliahan per pertemuan
