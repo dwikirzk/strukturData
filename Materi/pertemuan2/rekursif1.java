@@ -1,4 +1,4 @@
-package Materi;
+package Materi.pertemuan2;
 
 public class rekursif1 {
   public static void main(String[] args) {

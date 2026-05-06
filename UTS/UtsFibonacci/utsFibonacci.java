@@ -1,4 +1,4 @@
-package UTS;
+package UTS.UtsFibonacci;
 import java.util.Scanner;
 public class utsFibonacci {
 

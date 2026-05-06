@@ -1,4 +1,4 @@
-package Tugas;
+package Materi.pertemuan2;
 
 public class arrayMin {
   public static void main(String[] args) {

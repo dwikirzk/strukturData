@@ -1,0 +1,15 @@
+# Hasil Kompilasi (Wajib diabaikan)
+*.class
+bin/
+out/
+
+# Pengaturan IDE (Agar tidak bentrok)
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# File Sistem
+.DS_Store
+Thumbs.db

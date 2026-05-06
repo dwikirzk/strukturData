@@ -1,4 +1,4 @@
-package UTS;
+package UTS.UtsSorting;
 
 class Mahasiswa {
     String nama;

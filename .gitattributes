@@ -1,0 +1,9 @@
+# Pastikan semua file teks (termasuk .java) menggunakan format baris baru (LF) secara otomatis
+* text=auto
+
+# Pastikan file Java selalu dianggap sebagai teks dan menggunakan LF
+*.java text
+
+# Pastikan file dokumen seperti PDF atau gambar tetap diperlakukan sebagai binary (tidak diubah-ubah)
+*.jpg binary
+*.png binary

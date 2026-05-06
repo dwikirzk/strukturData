@@ -1,5 +1,11 @@
 # 📘 Program Sorting Data Mahasiswa (Java)
+## 👤 Identitas
 
+- **Nama:** [Mohamad Dwiki Rozak]
+- **NIM:** [25161562021]
+- **Kelas:** [ INF 2A]
+
+---
 ## 📝 Deskripsi
 
 Program ini dibuat menggunakan bahasa pemrograman Java untuk mengurutkan data mahasiswa berdasarkan nilai.

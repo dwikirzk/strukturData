@@ -1,4 +1,4 @@
-package Materi;
+package Materi.pertemuan5;
 
 public class bubbleSort {
   public static void main(String[] args) {

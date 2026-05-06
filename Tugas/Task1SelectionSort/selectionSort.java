@@ -1,4 +1,4 @@
-package Tugas;
+package Tugas.Task1SelectionSort;
 
 public class selectionSort {
   public static void main(String[] args) {
