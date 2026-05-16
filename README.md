@@ -17,6 +17,7 @@ Selamat datang di repositori penyimpanan tugas kuliah **Struktur Data**. Reposit
 - **Version Control:** Git & GitHub
 
 ## 📂 Struktur Folder
+
 ```text
 STRUKTURDATA/
 ├── .vscode/                 # Konfigurasi lokal editor (Ignored)
@@ -24,8 +25,9 @@ STRUKTURDATA/
 │   ├── pertemuan2/          # Nested Loop & Pola Huruf
 │   ├── pertemuan3/          # Manipulasi Array & Swap
 │   ├── pertemuan5/          # Bubble Sort
-│   ├── pertemuan6/          # (Materi Lanjutan)
+│   ├── pertemuan6/          # (Uts Sorting)
 │   └── pertemuan8/          # Stack (Tumpukan)
+│   └── pertemuan11/         # Queue (Antrian)
 ├── Tugas/                   # Kumpulan tugas mandiri
 │   └── Task1SelectionSort/  # Implementasi Selection Sort
 │       ├── hasilSelectionSort.png
@@ -43,3 +45,4 @@ STRUKTURDATA/
 ├── .gitignore               # Daftar file/folder yang tidak di-upload
 ├── LICENSE                  # Lisensi proyek (MIT)
 └── README.md                # Dokumentasi utama proyek
+```
