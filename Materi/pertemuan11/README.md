@@ -48,6 +48,5 @@ Tantangan utama dalam implementasi array statis ini adalah ketika elemen di inde
    ```java
    for (int i = 0; i < rear; i++) {
        que[i] = que[i + 1];
-   }
-### Output Program
-![alt text](image.png)
+   } 
+
