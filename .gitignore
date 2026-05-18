@@ -1,16 +1,8 @@
-# Hasil Kompilasi (Wajib diabaikan)
 *.class
 bin/
 out/
-
-# Pengaturan IDE (Agar tidak bentrok)
-.idea/
-*.iml
 .settings/
-.classpath
 .project
-
-# File Sistem
 .vscode/
-.DS_Store
-Thumbs.db
+Materi/pertemuan12/visualTree.html
+Materi/pertemuan12/visualLinkedList.html
